@@ -1,2 +1,2 @@
 Discounts:
-1. Coffeehut_Wallet transactions are an additional 15% off for LOYAL status members only. 
+1. LOYAL status members may checkout with CoffeeHut_Wallet, members gain points from purchases that can be used in their next purchase for a discounted price
