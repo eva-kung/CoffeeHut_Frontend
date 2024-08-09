@@ -1,8 +1,16 @@
-Featured Drinks: 
+Featured Drinks & Products: 
 
-- Hot/Iced Americano
-- Hot/Iced Caramel Macchiato
-- Hot/Iced Mocha
+1. Americano
+   - Espresso
+2. Caramel Macchiato
+   - Espresso
+   - Vanilla Syrup
+   - Caramel Sauce 
+3. Mocha/Cocoa 
+   - Mocha Powder/Cocoa Powder 
+   - Vanilla Syrup 
+   - Espresso
+   
 
 Member Discounts: 
-- LOYAL status members get 15% for all CoffeeHut_Wallet transactions 
+- LOYAL status checking out with CoffeeHut_Wallet will gain loyalty points for their next purchase for a discounted price!
