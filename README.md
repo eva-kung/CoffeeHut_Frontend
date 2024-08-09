@@ -7,4 +7,6 @@ Front End Repository for new online Ecommerse site for CoffeeHut selling popular
 1. product_catalog.md - display of product catalog with descriptions and photos 
 2. discount_plans.md - discount and pricing plans
 3. testimonials.md - user testimonials
-4. FeaturedProdudcts.md - nicely designed with of coffeehut's latest featured products, user profiles, updated daily or weekly 
+4. FeaturedProdudcts.md - nicely designed with of coffeehut's latest featured products, user profiles, updated daily or weekly
+  - must be updated with when discount_plans.md is updated
+  - must be updated with whe new user is updated (for corresponding profiles, see user_profiles.md in CoffeeHut_Backend Repo) 
