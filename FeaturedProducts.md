@@ -1,0 +1,3 @@
+- Hot/Iced Americano
+- Hot/Iced Caramel Macchiato
+- Hot/Iced Mocha
