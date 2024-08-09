@@ -1,7 +1,7 @@
 #CoffeeHut_Frontend Repo
 
 ===Description===
-Front End Repository for new online Ecommerse site for CoffeeHut selling popular Coffee and Espresso Gourmet products. Repo contains a display of product catalog's, pricing plans, best sellers, user testimonials, and discount plans. 
+Front End Repository for new online Ecommerce site for CoffeeHut selling popular Coffee and Espresso Gourmet products. Repo contains a display of product catalog's, pricing plans, best sellers, user testimonials, and discount plans. 
 
 ===Features===
 1. product_catalog.md - display of product catalog with descriptions and photos 
